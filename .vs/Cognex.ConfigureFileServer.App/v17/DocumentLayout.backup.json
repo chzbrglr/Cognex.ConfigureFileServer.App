@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\cognex.configurefileserver.app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|solutionrelative:cognex.configurefileserver.app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\cognex.configurefileserver.app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|solutionrelative:cognex.configurefileserver.app\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\ftp launcher\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|solutionrelative:ftp launcher\\program.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\ftp launcher\\ftp launcher.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|solutionrelative:ftp launcher\\ftp launcher.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\cognex.configurefileserver.app\\cognex.configurefileserver.app.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3E5D6295-92B7-4BBA-B6BB-40EEAD4A3C79}|Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj|solutionrelative:cognex.configurefileserver.app\\cognex.configurefileserver.app.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|c:\\users\\brent\\source\\repos\\cognex.configurefileserver.app\\ftp launcher\\ftp launcher.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D176DD31-D309-43E9-8526-E031F12E4251}|FTP Launcher\\FTP Launcher.vbproj|solutionrelative:ftp launcher\\ftp launcher.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FTP Launcher",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\FTP Launcher.vbproj",
+              "RelativeDocumentMoniker": "FTP Launcher\\FTP Launcher.vbproj",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\FTP Launcher.vbproj",
+              "RelativeToolTip": "FTP Launcher\\FTP Launcher.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-12-03T03:59:40.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.vb",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\Program.vb",
+              "RelativeDocumentMoniker": "FTP Launcher\\Program.vb",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\Program.vb",
+              "RelativeToolTip": "FTP Launcher\\Program.vb",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAcwBwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T03:25:00.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FTP Launcher.vbproj",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\FTP Launcher.vbproj",
+              "RelativeDocumentMoniker": "FTP Launcher\\FTP Launcher.vbproj",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\FTP Launcher\\FTP Launcher.vbproj",
+              "RelativeToolTip": "FTP Launcher\\FTP Launcher.vbproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-12-03T03:07:41.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cognex.ConfigureFileServer.App",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj",
+              "RelativeDocumentMoniker": "Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj",
+              "RelativeToolTip": "Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2025-12-03T01:42:37.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Form1.vb",
+              "RelativeDocumentMoniker": "Cognex.ConfigureFileServer.App\\Form1.vb",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Form1.vb",
+              "RelativeToolTip": "Cognex.ConfigureFileServer.App\\Form1.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAADgv+IBAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T01:30:48.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Form1.vb",
+              "RelativeDocumentMoniker": "Cognex.ConfigureFileServer.App\\Form1.vb",
+              "ToolTip": "C:\\Users\\brent\\source\\repos\\Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App\\Form1.vb [Design]",
+              "RelativeToolTip": "Cognex.ConfigureFileServer.App\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-12-03T01:28:11.597Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

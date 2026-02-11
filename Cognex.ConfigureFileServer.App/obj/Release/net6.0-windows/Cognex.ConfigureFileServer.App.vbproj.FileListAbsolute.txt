@@ -1,0 +1,16 @@
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\bin\Release\net6.0-windows\Cognex.ConfigureFileServer.App.exe
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\bin\Release\net6.0-windows\Cognex.ConfigureFileServer.App.deps.json
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\bin\Release\net6.0-windows\Cognex.ConfigureFileServer.App.runtimeconfig.json
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\bin\Release\net6.0-windows\Cognex.ConfigureFileServer.App.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\bin\Release\net6.0-windows\Cognex.ConfigureFileServer.App.pdb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.Form1.resources
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.vbproj.GenerateResource.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.AssemblyInfoInputs.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.AssemblyInfo.vb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.vbproj.CoreCompileInputs.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\refint\Cognex.ConfigureFileServer.App.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.pdb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\Cognex.ConfigureFileServer.App.genruntimeconfig.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\Cognex.ConfigureFileServer.App\obj\Release\net6.0-windows\ref\Cognex.ConfigureFileServer.App.dll

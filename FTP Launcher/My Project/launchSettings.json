@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FTP Launcher": {
+      "commandName": "Project",
+      "commandLineArgs": "FTP"
+    }
+  }
+}

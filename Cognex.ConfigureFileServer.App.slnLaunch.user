@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Cognex.ConfigureFileServer.App\\Cognex.ConfigureFileServer.App.vbproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "FTP Launcher\\FTP Launcher.vbproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

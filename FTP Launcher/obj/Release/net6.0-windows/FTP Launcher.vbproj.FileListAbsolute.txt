@@ -1,0 +1,17 @@
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.exe
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.deps.json
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.runtimeconfig.json
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.pdb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.AssemblyInfoInputs.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.AssemblyInfo.vb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\refint\FTP Launcher.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.pdb
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.genruntimeconfig.cache
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\ref\FTP Launcher.dll
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\bin\Release\net6.0-windows\FTP Launcher.dll.config
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP_Launcher.Resources.resources
+C:\Users\brent\source\repos\Cognex.ConfigureFileServer.App\FTP Launcher\obj\Release\net6.0-windows\FTP Launcher.vbproj.GenerateResource.cache
